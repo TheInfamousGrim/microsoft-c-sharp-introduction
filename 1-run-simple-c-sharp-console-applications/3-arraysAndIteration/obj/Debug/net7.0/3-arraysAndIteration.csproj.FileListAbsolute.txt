@@ -1,0 +1,15 @@
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\bin\Debug\net7.0\3-arraysAndIteration.exe
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\bin\Debug\net7.0\3-arraysAndIteration.deps.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\bin\Debug\net7.0\3-arraysAndIteration.runtimeconfig.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\bin\Debug\net7.0\3-arraysAndIteration.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\bin\Debug\net7.0\3-arraysAndIteration.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\3-arraysAndIteration.csproj.AssemblyReference.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\3-arraysAndIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\3-arraysAndIteration.AssemblyInfoInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\3-arraysAndIteration.AssemblyInfo.cs
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\3-arraysAndIteration.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\3-arraysAndIteration.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\refint\3-arraysAndIteration.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\3-arraysAndIteration.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\3-arraysAndIteration.genruntimeconfig.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\3-arraysAndIteration\obj\Debug\net7.0\ref\3-arraysAndIteration.dll
