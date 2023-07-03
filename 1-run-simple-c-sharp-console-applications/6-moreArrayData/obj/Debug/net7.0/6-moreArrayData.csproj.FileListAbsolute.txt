@@ -1,0 +1,15 @@
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\bin\Debug\net7.0\6-moreArrayData.exe
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\bin\Debug\net7.0\6-moreArrayData.deps.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\bin\Debug\net7.0\6-moreArrayData.runtimeconfig.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\bin\Debug\net7.0\6-moreArrayData.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\bin\Debug\net7.0\6-moreArrayData.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\6-moreArrayData.csproj.AssemblyReference.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\6-moreArrayData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\6-moreArrayData.AssemblyInfoInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\6-moreArrayData.AssemblyInfo.cs
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\6-moreArrayData.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\6-moreArrayData.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\refint\6-moreArrayData.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\6-moreArrayData.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\6-moreArrayData.genruntimeconfig.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\1-run-simple-c-sharp-console-applications\6-moreArrayData\obj\Debug\net7.0\ref\6-moreArrayData.dll
