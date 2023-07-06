@@ -1,0 +1,15 @@
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\bin\Debug\net7.0\3-challengeActivity.exe
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\bin\Debug\net7.0\3-challengeActivity.deps.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\bin\Debug\net7.0\3-challengeActivity.runtimeconfig.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\bin\Debug\net7.0\3-challengeActivity.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\bin\Debug\net7.0\3-challengeActivity.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\3-challengeActivity.csproj.AssemblyReference.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\3-challengeActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\3-challengeActivity.AssemblyInfoInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\3-challengeActivity.AssemblyInfo.cs
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\3-challengeActivity.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\3-challengeActivity.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\refint\3-challengeActivity.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\3-challengeActivity.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\3-challengeActivity.genruntimeconfig.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\3-challengeActivity\obj\Debug\net7.0\ref\3-challengeActivity.dll
