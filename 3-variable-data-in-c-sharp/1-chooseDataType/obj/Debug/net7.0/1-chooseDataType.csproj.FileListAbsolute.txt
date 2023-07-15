@@ -1,0 +1,15 @@
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\bin\Debug\net7.0\1-chooseDataType.exe
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\bin\Debug\net7.0\1-chooseDataType.deps.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\bin\Debug\net7.0\1-chooseDataType.runtimeconfig.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\bin\Debug\net7.0\1-chooseDataType.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\bin\Debug\net7.0\1-chooseDataType.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\1-chooseDataType.csproj.AssemblyReference.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\1-chooseDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\1-chooseDataType.AssemblyInfoInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\1-chooseDataType.AssemblyInfo.cs
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\1-chooseDataType.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\1-chooseDataType.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\refint\1-chooseDataType.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\1-chooseDataType.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\1-chooseDataType.genruntimeconfig.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\1-chooseDataType\obj\Debug\net7.0\ref\1-chooseDataType.dll
