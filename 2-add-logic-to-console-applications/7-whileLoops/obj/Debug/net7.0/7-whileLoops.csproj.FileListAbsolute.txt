@@ -1,0 +1,15 @@
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\bin\Debug\net7.0\7-whileLoops.exe
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\bin\Debug\net7.0\7-whileLoops.deps.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\bin\Debug\net7.0\7-whileLoops.runtimeconfig.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\bin\Debug\net7.0\7-whileLoops.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\bin\Debug\net7.0\7-whileLoops.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\7-whileLoops.csproj.AssemblyReference.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\7-whileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\7-whileLoops.AssemblyInfoInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\7-whileLoops.AssemblyInfo.cs
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\7-whileLoops.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\7-whileLoops.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\refint\7-whileLoops.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\7-whileLoops.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\7-whileLoops.genruntimeconfig.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\2-add-logic-to-console-applications\7-whileLoops\obj\Debug\net7.0\ref\7-whileLoops.dll
