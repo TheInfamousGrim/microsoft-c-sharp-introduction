@@ -1,0 +1,15 @@
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\bin\Debug\net7.0\3-helperMethodsArrays.exe
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\bin\Debug\net7.0\3-helperMethodsArrays.deps.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\bin\Debug\net7.0\3-helperMethodsArrays.runtimeconfig.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\bin\Debug\net7.0\3-helperMethodsArrays.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\bin\Debug\net7.0\3-helperMethodsArrays.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\3-helperMethodsArrays.csproj.AssemblyReference.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\3-helperMethodsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\3-helperMethodsArrays.AssemblyInfoInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\3-helperMethodsArrays.AssemblyInfo.cs
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\3-helperMethodsArrays.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\3-helperMethodsArrays.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\refint\3-helperMethodsArrays.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\3-helperMethodsArrays.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\3-helperMethodsArrays.genruntimeconfig.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\3-helperMethodsArrays\obj\Debug\net7.0\ref\3-helperMethodsArrays.dll
