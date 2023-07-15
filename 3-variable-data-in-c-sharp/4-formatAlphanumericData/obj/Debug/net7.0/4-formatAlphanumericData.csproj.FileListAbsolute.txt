@@ -1,0 +1,15 @@
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\bin\Debug\net7.0\4-formatAlphanumericData.exe
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\bin\Debug\net7.0\4-formatAlphanumericData.deps.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\bin\Debug\net7.0\4-formatAlphanumericData.runtimeconfig.json
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\bin\Debug\net7.0\4-formatAlphanumericData.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\bin\Debug\net7.0\4-formatAlphanumericData.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\4-formatAlphanumericData.csproj.AssemblyReference.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\4-formatAlphanumericData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\4-formatAlphanumericData.AssemblyInfoInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\4-formatAlphanumericData.AssemblyInfo.cs
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\4-formatAlphanumericData.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\4-formatAlphanumericData.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\refint\4-formatAlphanumericData.dll
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\4-formatAlphanumericData.pdb
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\4-formatAlphanumericData.genruntimeconfig.cache
+C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\4-formatAlphanumericData\obj\Debug\net7.0\ref\4-formatAlphanumericData.dll
