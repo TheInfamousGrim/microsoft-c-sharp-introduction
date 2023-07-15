@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _2_castingAndConversionTechniques
+build_property.ProjectDir = C:\Users\George\Documents\Coding\personal-learning\c-sharp\microsoft-c-sharp-introduction\3-variable-data-in-c-sharp\2-castingAndConversionTechniques\
