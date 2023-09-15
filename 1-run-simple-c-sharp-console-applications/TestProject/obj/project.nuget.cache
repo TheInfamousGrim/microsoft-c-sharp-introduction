@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8C7J04CHDSPSvzchWJhCXm4XIvpcv0aTQl+gYSIWNviwr7/mHp9gTuov1CgO7+7JhYas3KE4/6c1QwQXAdYqzw==",
+  "dgSpecHash": "9b4DIakaKuCJnT8dcuOwmlwyHKLGM0bCLjWEoRRygU3GOGWC/0shuO+bmraXK8DVhqFpRtXQi9g/UAhkEtCwQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\TestProject\\TestProject.csproj",
+  "projectFilePath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

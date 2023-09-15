@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kyq75vIYtD9M8ehRjZ0GOB80h3LXufDL+slESwHSbnkGLJT1qkt8kFB4ntm8V59GdKEELhPfuMF2fiKZzsbYCQ==",
+  "dgSpecHash": "3V3hRwqxEpXJpvGt13xvtAUkMoNZ4AnVjyBGyBSM5ex/3efCYaf6p6R5o+sm3lP4q0kXVFKxrBm4fCbTzobpxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\5-switchStatements\\5-switchStatements.csproj",
+  "projectFilePath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\5-switchStatements\\5-switchStatements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

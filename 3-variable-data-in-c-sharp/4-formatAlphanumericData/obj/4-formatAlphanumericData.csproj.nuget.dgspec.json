@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\4-formatAlphanumericData.csproj": {}
+    "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\4-formatAlphanumericData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\4-formatAlphanumericData.csproj": {
+    "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\4-formatAlphanumericData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\4-formatAlphanumericData.csproj",
+        "projectUniqueName": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\4-formatAlphanumericData.csproj",
         "projectName": "4-formatAlphanumericData",
-        "projectPath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\4-formatAlphanumericData.csproj",
+        "projectPath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\4-formatAlphanumericData.csproj",
         "packagesPath": "C:\\Users\\George\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\obj\\",
+        "outputPath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\3-variable-data-in-c-sharp\\4-formatAlphanumericData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\George\\AppData\\Roaming\\NuGet\\NuGet.Config"

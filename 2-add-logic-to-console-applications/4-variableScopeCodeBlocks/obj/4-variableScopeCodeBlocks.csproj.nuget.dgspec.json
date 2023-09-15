@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\4-variableScopeCodeBlocks.csproj": {}
+    "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\4-variableScopeCodeBlocks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\4-variableScopeCodeBlocks.csproj": {
+    "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\4-variableScopeCodeBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\4-variableScopeCodeBlocks.csproj",
+        "projectUniqueName": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\4-variableScopeCodeBlocks.csproj",
         "projectName": "4-variableScopeCodeBlocks",
-        "projectPath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\4-variableScopeCodeBlocks.csproj",
+        "projectPath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\4-variableScopeCodeBlocks.csproj",
         "packagesPath": "C:\\Users\\George\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\obj\\",
+        "outputPath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\2-add-logic-to-console-applications\\4-variableScopeCodeBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\George\\AppData\\Roaming\\NuGet\\NuGet.Config"

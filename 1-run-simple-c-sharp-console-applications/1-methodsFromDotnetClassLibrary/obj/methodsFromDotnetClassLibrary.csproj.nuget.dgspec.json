@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\methodsFromDotnetClassLibrary.csproj": {}
+    "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\methodsFromDotnetClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\methodsFromDotnetClassLibrary.csproj": {
+    "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\methodsFromDotnetClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\methodsFromDotnetClassLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\methodsFromDotnetClassLibrary.csproj",
         "projectName": "methodsFromDotnetClassLibrary",
-        "projectPath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\methodsFromDotnetClassLibrary.csproj",
+        "projectPath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\methodsFromDotnetClassLibrary.csproj",
         "packagesPath": "C:\\Users\\George\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\obj\\",
+        "outputPath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-c-sharp-introduction\\1-run-simple-c-sharp-console-applications\\1-methodsFromDotnetClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\George\\AppData\\Roaming\\NuGet\\NuGet.Config"
